@@ -1,5 +1,0 @@
----
-title: "The Quad Lab"
-output: html_document
----
-Here is some text for the home page.
