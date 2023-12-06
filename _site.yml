@@ -1,0 +1,11 @@
+name: "quad-lab-site"
+navbar:
+  title: "Quad Lab"
+  left: 
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+output:
+  html_document:
+    theme: journal

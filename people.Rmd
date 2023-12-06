@@ -1,0 +1,6 @@
+---
+title: "people.rmd"
+output: html_document
+date: "2023-12-06"
+---
+Here is some text for the people page.
