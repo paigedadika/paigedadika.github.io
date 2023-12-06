@@ -1,0 +1,8 @@
+name: "quad-lab-site"
+navbar:
+  title: "My cats' website"
+left:
+  - text: "Home"
+output:
+  html_document:
+    theme: project-pages-gh-pages
