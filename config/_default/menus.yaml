@@ -7,14 +7,14 @@ main:
   - name: For parents 
     url: post
     weight: 20
+      - name: Publications
+    url: publication
+    weight: 30
   - name: People
     url: people
-    weight: 30
-  - name: Join Us
-    url: event
     weight: 40
-  - name: Publications
-    url: publication
+      - name: Join the Lab
+    url: event
     weight: 50
   - name: Contact Us!
     url: contact
