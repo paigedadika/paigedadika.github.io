@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: For parents 
+  - name: Our Projects
     url: post
     weight: 20
   - name: Publications
@@ -17,5 +17,5 @@ main:
     url: event
     weight: 50
   - name: Contact Us!
-    url: contac
+    url: contact
     weight: 60

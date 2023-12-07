@@ -4,19 +4,19 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
+      city: New Brunswick
       country: United States
       country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
-    appointment_url: https://calendly.com
+      postcode: "08850"
+      region: NJ
+      street: 152 Frelinghuysen Rd
+    appointment_url:
     autolink: true
     coordinates:
-      latitude: "37.4275"
-      longitude: "-122.1697"
+      latitude: "0"
+      longitude: "0"
     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    email: quadlab@psych.rutgers.edu
     form:
       formspree:
         id: null
