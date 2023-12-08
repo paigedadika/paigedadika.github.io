@@ -25,16 +25,16 @@ sections:
     page_type: post
     subtitle: null
     text: null
-    title: Latest News
+    title: I don't think I like this text block, it is meant to introduce the large graphic that I got rid of... 
   design:
     columns: "1"
     view: card
-      
+    
 - block: markdown
   content:
     subtitle: null
     text: |
-      {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      {{% cta cta_link="./projects/" cta_text="Our Projects →" %}}
     title: null
   design:
     columns: "1"

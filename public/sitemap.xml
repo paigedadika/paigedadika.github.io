@@ -2,14 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://paigedadika.github.io/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://paigedadika.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://paigedadika.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,9 +78,6 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://paigedadika.github.io/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://paigedadika.github.io/projects/20-12-01-wowchemy-prize/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -96,6 +85,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://paigedadika.github.io/author/michelle-hurst/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://paigedadika.github.io/author/paige-dadika/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://paigedadika.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

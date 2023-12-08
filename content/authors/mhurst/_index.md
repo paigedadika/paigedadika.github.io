@@ -1,5 +1,5 @@
 ---
-bio: My research interests include development.
+bio: My research interests include mathematical development and variations in performance across contexts.
 education:
   courses:
   - course: Postdoc 

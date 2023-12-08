@@ -26,6 +26,7 @@ superuser: true
 title: Paige Dadika
 user_groups:
 - Administration
+- Researchers
 ---
 
 Paige Dadika is...
