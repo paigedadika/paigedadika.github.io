@@ -38,7 +38,7 @@ social:
 superuser: true
 title: Michelle Hurst
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Michelle Hurst is...
