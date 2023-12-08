@@ -8,8 +8,8 @@ sections:
     title: Meet the Team
     user_groups:
     - Principal Investigators
-    - Researchers
     - Grad Students
+    - Undergraduate Researchers
     - Administration
     - Visitors
     - Alumni

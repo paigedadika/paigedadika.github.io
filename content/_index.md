@@ -29,29 +29,7 @@ sections:
   design:
     columns: "1"
     view: card
-- block: markdown
-  content:
-    subtitle: ""
-    text: null
-    title: null
-  design:
-    background:
-      image:
-        filename: coders.jpg
-        filters:
-          brightness: 1
-        parallax: false
-        position: center
-        size: cover
-        text_color_light: true
-    columns: "1"
-    css_class: fullscreen
-    spacing:
-      padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
+      
 - block: markdown
   content:
     subtitle: null
