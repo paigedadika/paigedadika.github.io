@@ -3,7 +3,6 @@ banner:
   caption: ""
   image: ""
 title: We are Hiring!
-view: compact
 ---
   At the Quad Lab we provide an enthusiastic and organized environment for our members to conduct research within. In return we ask for present members who do things.
   
@@ -24,3 +23,4 @@ view: compact
   If you are interested please fill out the following form using your Rutgers email address:
   
 https://forms.office.com/r/3DGvq9QhxZ
+
