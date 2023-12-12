@@ -24,6 +24,7 @@ projects:
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 publication_types:
+- article-journal
 - paper-conference
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
