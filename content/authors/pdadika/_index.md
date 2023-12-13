@@ -19,9 +19,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:paige.dadika@rutgers.edu
-- icon: github
-  icon_pack: fab
-  link: 
 superuser: true
 title: Paige Dadika
 user_groups:

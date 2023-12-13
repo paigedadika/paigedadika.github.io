@@ -11,7 +11,7 @@ sections:
       The **Quantitative Development Lab** is a new lab at Rutgers University. We aim to....
     title: |
       The Quad Lab
-
+      
 - block: markdown
   content:
     subtitle: null
@@ -29,7 +29,8 @@ sections:
       ![](quadlab.png)
   design:
     spacing:
-      padding: ['15px', '10px', '0px', '185px']
+      padding: ['15px', '10px', '0px', '250px']
+
 title: null
 type: landing
 ---

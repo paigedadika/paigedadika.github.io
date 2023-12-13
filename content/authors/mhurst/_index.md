@@ -26,15 +26,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:michelle.hurst@rutgers.edu
-- icon: twitter
-  icon_pack: fab
-  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=cLZiGjcAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: 
 superuser: true
 title: Michelle Hurst
 user_groups:
