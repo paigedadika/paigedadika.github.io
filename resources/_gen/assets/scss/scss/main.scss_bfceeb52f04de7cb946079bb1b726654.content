@@ -9735,3 +9735,6 @@ div.chart {
 
 .cta-group {
   justify-content: center; }
+
+.center {
+  text-align: center; }

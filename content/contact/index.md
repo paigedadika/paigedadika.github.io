@@ -13,9 +13,9 @@ sections:
     appointment_url:
     autolink: true
     coordinates:
-      latitude: "0"
-      longitude: "0"
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      latitude: "40.5234"
+      longitude: "-74.4658"
+    directions: Enter the Psychology Building, go downstairs and walk in the direction of ascending office numbers until you reach the pink section.
     email: quadlab@psych.rutgers.edu
     form:
       formspree:
@@ -24,15 +24,8 @@ sections:
         captcha: false
       provider: netlify
     office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus
-      augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor
-      ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus
-      orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras
-      interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim,
-      arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+    - Monday through Friday 9:00 to 5:00
+    text: If you are interested in participating in a study or joining the lab input your information here.
     title: Contact
   design:
     columns: "1"
