@@ -1,8 +1,5 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: When proportional information is pit against whole number numerical information, children often attend to the whole number information at the expense of proportional information (e.g., indicating 4/9 is greater than 3/5 because 4 > 3). In the current study, we presented younger (3- to 4-year-olds) and older (5- to 6-year-olds) children a task in which the proportional information was presented either continuously (units cannot be counted) or discretely (countable units; numerical information available). In the discrete conditions, older children showed numerical interference—responding based on the number of pieces instead of the proportion of pieces. However, older children easily overcame this poor strategy selection on discrete trials if they first had some experience with continuous, proportional strategies, suggesting this prevalent reliance on numerical information may be malleable. Younger children, on the other hand, showed difficulty with the proportion task, but showed evidence of proportional reasoning in a simplified estimation-style task, suggesting that younger children may still be developing their proportional and numerical skills in task-dependent ways. Lastly, across both age groups, performance on the proportional reasoning task in continuous contexts, but not discrete contexts, was related to more general analogical reasoning skills. Findings suggest that children’s proportional reasoning abilities are actively developing between the ages of 3 and 6 and may depend on domain general reasoning skills. We discuss the implications for this work for both cognitive development and education.
 authors:
 - Michelle Hurst
 - Sara Cordes
@@ -11,16 +8,16 @@ featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Developmental psychology*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Developmental psychology*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-03-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Attending to relations: Proportional reasoning in 3-to 6-year-old children
+url_pdf: "https://oce.ovid.com/article/00063061-201803000-00003/HTML"
 ---

@@ -1,8 +1,6 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: |
+  Across two experiments, we investigated how verbal labels impact the way young children attend to proportional information, well before the introduction of formal fraction education. Five‐ to seven‐year‐old children were introduced to equivalent non‐symbolic proportions labeled in one of three ways: (a) a single, categorical label for multiple fractions (both 3/4 and 6/8 referred to as “blick”), (b) labels that focused on the numerator [e.g., 3/4 labeled as “three blicks” (Experiment 1) or “three‐fourths” (Experiment 2)], or (c) labels that had a complete part‐whole structure (“three‐out‐of‐four”). Children then completed measures of non‐symbolic proportional reasoning that pitted whole‐number information against proportional information for novel proportions. Across both experiments, children who heard the categorical labels were more likely to match non‐symbolic displays based on proportion than children in any of the other conditions, who demonstrated higher levels of numerical interference. These findings suggest that fraction labels have the potential to shape children's attention to proportional information even in the context of non‐symbolic part‐whole displays and for children who are not familiar with formal fraction symbols. We discuss these findings in terms of children's developing understanding of proportional reasoning and its implications for fraction education.
 authors:
 - Michelle Hurst
 - Sara Cordes
@@ -11,16 +9,16 @@ featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Developmental science*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Developmental science*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-07-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Talking about proportion: Fraction labels impact numerical interference in non‐symbolic proportional reasoning
+url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.12790"
 ---

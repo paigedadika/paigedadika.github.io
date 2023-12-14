@@ -1,8 +1,6 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: |
+  Math learning is a notoriously difficult process for children and adults, resulting in very few qualified science, technology, engineering, and     math (STEM) college graduates. However, the lack of math and science graduates is not solely because of low ability in math fields; high achieving   math students also opt out of optional math education, emphasizing the importance of the individual’s subjective perception and experience in       addition to objective ability in determining whether an individual pursues math. The transition from secondary to postsecondary math education is   a time when subjective experiences become particularly salient; this is the time students begin to make important decisions about their own         educational path and career future. In this chapter, we will focus on the beliefs students have about the nature of mathematics, discussing how     these general beliefs impact students’ specific beliefs about themselves in relation to math and how these personal reactions impact his or her     persistence in math education. Although there may be many beliefs students hold that deter them from math, we will focus on two categories of       beliefs: (1) about the nature of math ability and (2) the nature of the math domain as a field. While reviewing the research on these beliefs, we   will discuss how these beliefs interact with affective experiences and impact feelings of self-efficacy, math anxiety, math interest, and value     judgments. Ultimately, we aim to shed light on ways in which beliefs and attitudes about the math domain interact with subjective experiences,      including affective experiences, of the transition from secondary to postsecondary math education to create a sense of belonging (or not) in the    math domain.
 authors:
 - Michelle Hurst
 - Sara Cordes
@@ -11,9 +9,9 @@ featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Understanding Emotions in Mathematical Thinking and Learning*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Understanding Emotions in Mathematical Thinking and Learning*
 publication_types: 
 - article-journal
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,6 +19,6 @@ slides: example
 summary: This is the summary that works with the search engine.
 tags: ["Development"]
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  When Being Good at Math Is Not Enough: How Students’ Beliefs About the Nature of Mathematics Impact Decisions to Pursue Optional Math Education
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/B978012802218400008X"
 ---

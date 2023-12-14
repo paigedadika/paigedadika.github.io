@@ -1,26 +1,24 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Fraction notation conveys both part-whole (3/4 is 3 out of 4) and magnitude (3/4= 0.75) information, yet evidence suggests that both children and adults find accessing magnitude information from fractions particularly difficult. Recent research suggests that using number lines to teach children about fractions can help emphasize fraction magnitude. In three experiments with adults and 9-12-year-old children, we compare the benefits of number lines and pie charts for thinking about rational numbers. In Experiment 1, we first investigate how adults spontaneously visualize symbolic fractions. Then, in two further experiments, we explore whether priming children to use pie charts vs. number lines impacts performance on a subsequent symbolic magnitude task and whether children differentially rely on a partitioning strategy to map rational numbers to number lines vs. pie charts. Our data reveal that adults very infrequently spontaneously visualize fractions along a number line and, contrary to other findings, that practice mapping rational numbers to number lines did not improve performance on a subsequent symbolic magnitude comparison task relative to practice mapping the same magnitudes to pie charts. However, children were more likely to use overt partitioning strategies when working with pie charts compared to number lines, suggesting these representations did lend themselves to different working strategies. We discuss the interpretations and implications of these findings for future research and education. All materials and data are provided as Supplementary Materials.
 authors:
 - Michelle Hurst
+- Marisa Massaro
 - Sara Cordes
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Journal of Numerical Cognition*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Journal of Numerical Cognition*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-09-09T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Fraction Magnitude: Mapping Between Symbolic and Spatial Representations of Proportion
+url_pdf: "https://jnc.psychopen.eu/index.php/jnc/article/view/5901/5901.pdf"
 ---

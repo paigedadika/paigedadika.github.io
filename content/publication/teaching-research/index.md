@@ -1,26 +1,27 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Psychology majors typically conduct at least one research project during their undergraduate studies, yet these projects rarely make a scientific contribution beyond the classroom. In this study, we explored one potential reason for this—that student projects may not be aligned with best practices in the field. In other words, we wondered if there was a mismatch between what instructors teach in principle and what student projects are in practice. To answer this, we asked psychology instructors (n=111) who regularly teach courses involving research projects questions about these projects. Instructors endorsed many of the commonly assumed pitfalls of student projects, such as not using rigorous methodology. Notably, the characteristics of these typical student projects did not align with the qualities instructors reported as being important in research practice. We highlight opportunities to align these qualities by employing resources such as crowdsourced projects specifically developed for student researchers.
 authors:
+- Jordan R Wagge
 - Michelle Hurst
-- Sara Cordes
+- Mark J Brandt
+- Ljiljana B Lazarevic
+- Nicole Legate
+- Jon E Grahe
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Psychology Learning & Teaching*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Psychology Learning & Teaching*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-03-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Teaching Research in Principle and in Practice: What Do Psychology Instructors Think of Research Projects in Their Courses?
+url_pdf: "https://journals.sagepub.com/doi/pdf/10.1177/14757257221101942"
 ---

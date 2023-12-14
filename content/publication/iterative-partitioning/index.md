@@ -1,26 +1,24 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Fractions are a challenging mathematics topic for many elementary and middle school students, and even for adults. However, a growing body of developmental research suggests that young children can reason about visually presented proportions, well before fraction instruction, providing insight into how fractions might be introduced to improve learning. We designed a card game to teach first and second grade children ( N = 195, including a racially and economically diverse sample from the United States) about fractions in one of three ways. In the Actively Divided condition we iteratively divided an area model into equal-sized units, in the Predivided condition we used an area model with the end-state of the Actively Divided condition, and in the Nondivided condition we used a continuous representation of the fraction magnitude that was not divided into unit-sized parts. Children in the actively divided condition demonstrated larger improvements matching symbolic fractions and visual fractions (i.e., pie charts) than children in the other two conditions. Posthoc analyses of children’s gameplay revealed that the actively divided condition may have provided a more optimal level of difficulty for young children than the predivided condition, which was particularly difficult, and the nondivided condition, which was trivially easy. These differences in gameplay performance provide insights into possible mechanisms for our results. We discuss open research questions highlighted by this work and implications of these findings for both the development of proportional reasoning and fraction learning.
 authors:
 - Michelle Hurst
+- Jacob R Butts
 - Sara Cordes
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Developmental Psychology*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Developmental Psychology*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-05-05T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Connecting symbolic fractions to their underlying proportions using iterative partitioning
+url_pdf: "https://oce.ovid.com/article/00063061-202209000-00009/HTML"
 ---

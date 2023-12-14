@@ -1,26 +1,25 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: |
+  Although difficulties processing both symbolic and nonsymbolic proportion compared with absolute number are well established, the mechanisms       involved remain unclear. We investigate four potential explanations to account for better number processing in adulthood: (a) number is more salient than proportion, (b) number is encoded more automatically than proportion, (c) proportion is more effortfully processed than number, and (d) number competes with proportion during decision making. Across three experiments, we used a delayed match-to-sample paradigm in which adults were asked which of two alternatives matched a sample set of red and blue dots. We systematically manipulated which dimension of the sample participants matched (number of red dots, total number of dots, proportion of red dots), the presence/absence of the competing quantity in the choice alternatives, and when they were told which quantitative dimension to encode (before vs. after the sample presentation, or not at all). Overall, data reveal that proportion was less salient than the numerical subset. Additionally, the number of items within the subset, but not the total number of items in the superset, interfered with proportion-based responding. Last, even in the absence of response competition and costly task demands, proportion matching took longer than number matching, highlighting basic processing differences. Together, results reveal pervasive difficulties in representing proportion compared with number, even when task demands are unambiguous. However, this varied depending on the numerical set involved and across encoding, processing, and decision processes. We discuss the implications of these findings for theories of ratio processing and of quantity more generally.
 authors:
 - Michelle Hurst
+- Ty W Boyer
 - Sara Cordes
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Journal of Experimental Psychology: Learning, Memory, and Cognition*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Journal of Experimental Psychology: Learning, Memory, and Cognition*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Spontaneous and directed attention to number and proportion
+url_pdf: "https://oce.ovid.com/article/00004786-202301000-00002/HTML"
 ---

@@ -1,26 +1,24 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: |
+  Children struggle with the quantifier “most”. Often, this difficulty is attributed to an inability to interpret most proportionally, with children instead relying on absolute quantity comparisons. However, recent research in proportional reasoning more generally has provided new insight into children's apparent difficulties, revealing that their overreliance on absolute amount is unique to contexts in which the absolute amount can be counted and interferes with proportional information. Across two experiments, we test whether 4- to 6-year-old children's interpretation of most is similarly dependent on the discreteness of the stimuli when comparing two different quantities (e.g., who ate most of their chocolate?) and when verifying whether a single amount can be described with the term most (e.g., is most of the butterfly colored in?). We find that children's interpretation of most does depend on the stimulus format. When choosing between absolutely more vs. proportionally more as depicting most, children showed stronger absolute-based errors with discrete stimuli than continuous stimuli, and by 6-years-old were able to reason proportionally with continuous stimuli, despite still demonstrating strong absolute interference with discrete stimuli. In contrast, children's yes/no judgements of single amounts, where conflicting absolute information is not a factor, showed a weaker understanding of most for continuous stimuli than for discrete stimuli. Together, these results suggest that children's difficulty with most is more nuanced than previously understood: it depends on the format and availability of proportional vs. absolute amounts and develops substantially from 4- to 6-years-old.
 authors:
 - Michelle Hurst
-- Sara Cordes
+- Susan C Levine
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Cognition*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Cognition*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-08-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Children's understanding of most is dependent on context
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0010027722001378"
 ---

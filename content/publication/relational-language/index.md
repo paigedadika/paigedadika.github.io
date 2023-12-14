@@ -1,26 +1,26 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Numerical order and magnitude are important aspects of early number knowledge. We investigated children’s understanding of relational vocabulary for representing and communicating about order (before/after) and magnitude (bigger/smaller, more/less). In Experiment 1, 4- to 7-year-old children compared symbolic numbers, non-symbolic discrete quantities, and continuous amounts using relational words (N = 151). In Experiment 2, 4- to 6-year-old children made yes/no judgements of ordinal and magnitude relations between symbolic numbers (N = 60). Children showed lower performance with ordinal vocabulary compared to magnitude vocabulary (Experiment 1). Further, children were less likely to endorse the use of ordinal language for non-consecutive numbers than consecutive numbers, but showed no difference for magnitude language (e.g., 6 and 7 are bigger than 5, but only 6 comes after 5; Experiment 2). These results suggest a divergence in children’s understanding of magnitude and ordinal vocabulary, suggesting a dissociation between these two concepts and/or the language used to communicate about them.
 authors:
 - Michelle Hurst
+- Abrea Greene
+- Sarah H Eason
+- Amy Claessens
 - Sara Cordes
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Cognitive Development*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Cognitive Development*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-07-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Children’s understanding of relational language for quantity comparisons
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0885201422000624"
 ---

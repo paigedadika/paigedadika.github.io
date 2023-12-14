@@ -1,26 +1,24 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Understanding fractions and decimals requires not only understanding each notation separately, or within-notation knowledge, but also understanding relations between notations, or cross-notation knowledge. Multiple notations pose a challenge for learners but could also present an opportunity, in that cross-notation knowledge could help learners to achieve a better understanding of rational numbers than could easily be achieved from within-notation knowledge alone. This hypothesis was tested by reanalyzing three published datasets involving fourth- to eighth-grade children from the United States and Finland. All datasets included measures of rational number arithmetic, within-notation magnitude knowledge (e.g., accuracy in comparing fractions vs. fractions and decimals vs. decimals), and cross-notation magnitude knowledge (e.g., accuracy in comparing fractions vs. decimals). Consistent with the hypothesis, cross-notation magnitude knowledge predicted fraction and decimal arithmetic when controlling for within-notation magnitude knowledge. Furthermore, relations between within-notation magnitude knowledge and arithmetic were not notation specific; fraction magnitude knowledge did not predict fraction arithmetic more than decimal arithmetic, and decimal magnitude knowledge did not predict decimal arithmetic more than fraction arithmetic. Implications of the findings for assessing rational number knowledge and learning and teaching about rational numbers are discussed.
 authors:
+- David Braithwaite
+- Jake McMullen
 - Michelle Hurst
-- Sara Cordes
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Journal of Experimental Child Psychology*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Journal of Experimental Child Psychology*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Cross-notation knowledge of fractions and decimals
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096521001284"
 ---

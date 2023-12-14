@@ -1,26 +1,26 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Shape puzzles offer opportunities for families to talk about geometric concepts, which supports early spatial reasoning. However, puzzle features (i.e., similarity of shapes) may influence the nature of parent-child talk about shapes (e.g., labeling shapes vs. elaborating on shape properties). In this study, 128 dyads of parents and children (ages 30–47 months) completed both Typical and Highly Alignable (HA) shape puzzles. Compared to the HA puzzle, there was more shape labeling during the Typical puzzle; the HA puzzle elicited more elaborative shape talk (particularly comparing and contrasting shapes). Further, the HA puzzle elicited more elaborative shape talk when similar shapes were distributed on different rows rather than arranged side-by-side. Follow-up analyses found the HA puzzles were more difficult for children to complete. Findings suggest that including similar shapes and manipulating the arrangement of shapes may increase the difficulty of puzzles and elicit increased parent support and enhanced parent-child spatial language during puzzle play.
 authors:
+- Sarah H Eason
 - Michelle Hurst
-- Sara Cordes
+- Kassie Kerr
+- Amy Claessens
+- Susan C Levine
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Cognitive Development*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Cognitive Development*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Enhancing parent and child shape talk during puzzle play
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0885201422000983"
 ---

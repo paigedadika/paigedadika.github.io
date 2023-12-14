@@ -1,26 +1,26 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Children struggle with proportional reasoning when discrete countable information is available because they over-rely on this numerical information even when it leads to errors. In the current study, we investigated whether different types of gesture can exacerbate or mitigate these errors. Children aged 5–7 years (N = 135) were introduced to equivalent proportions using discrete gestures that highlighted separate parts, continuous gestures that highlighted continuous amounts, or no gesture. After training, children completed a proportional reasoning match-to-sample task where whole number information was occasionally pitted against proportional information. After the task, we measured children’s own gesture use. Overall, we did not find condition differences in proportional reasoning; however, children who observed continuous gestures produced more continuous gestures than those who observed discrete gestures (and vice versa for discrete gestures). Moreover, producing fewer discrete gestures and more continuous gestures was associated with lower numerical interference on the match-to-sample task. Lastly, to further investigate individual differences, we found that children’s inhibitory control and formal math knowledge were correlated with proportional reasoning in general but not with numerical interference in particular. Taken together, these findings highlight that children’s own gestures may be a powerful window into the information they attend to during proportional reasoning.
 authors:
 - Michelle Hurst
+- Alyson Wong
+- Raychel Gordon
+- Aziza Alam
 - Sara Cordes
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Journal of Experimental Child Psychology*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Journal of Experimental Child Psychology*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-02-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Children’s gesture use provides insight into proportional reasoning strategies
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096521001958"
 ---

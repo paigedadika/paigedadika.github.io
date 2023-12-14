@@ -1,8 +1,5 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Fraction and decimal concepts are notoriously difficult for children to learn yet are a major component of elementary and middle school math curriculum and an important prerequisite for higher order mathematics (i.e., algebra). Thus, recently there has been a push to understand how children think about rational number magnitudes in order to understand how to promote rational number understanding. However, prior work investigating these questions has focused almost exclusively on fraction notation, overlooking the open questions of how children integrate rational number magnitudes presented in distinct notations (i.e., fractions, decimals, and whole numbers) and whether understanding of these distinct notations may independently contribute to pre-algebra ability. In the current study, we investigated rational number magnitude and arithmetic performance in both fraction and decimal notation in fourth- to seventh-grade children. We then explored how these measures of rational number ability predicted pre-algebra ability. Results reveal that children do represent the magnitudes of fractions and decimals as falling within a single numerical continuum and that, despite greater experience with fraction notation, children are more accurate when processing decimal notation than when processing fraction notation. Regression analyses revealed that both magnitude and arithmetic performance predicted pre-algebra ability, but magnitude understanding may be particularly unique and depend on notation. The educational implications of differences between children in the current study and previous work with adults are discussed.
 authors:
 - Michelle Hurst
 - Sara Cordes
@@ -11,16 +8,16 @@ featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Journal of Experimental Child Psychology*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Journal of Experimental Child Psychology*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-04-30T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Children’s understanding of fraction and decimal symbols and the notation-specific relation to pre-algebra ability
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096517302564"
 ---

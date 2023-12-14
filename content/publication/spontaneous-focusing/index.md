@@ -1,26 +1,21 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Much research has examined the reciprocal relations between a child’s spontaneous focus on number (SFON) in the preschool years and later mathematical achievement. However, this literature relies on several different tasks to assess SFON with distinct task demands, making it unclear to what extent these tasks measure the same underlying construct. Moreover, prior studies have investigated SFON in the context of small sets exclusively, but no work has explored whether children demonstrate SFON for large sets and how this relates to children’s math ability. In the current study, preschoolers were presented four distinct SFON tasks assessing their spontaneous attention to number for small (Experiment 1) and large (Experiment 2) sets of numbers. Results revealed performance across the four distinct SFON tasks was unrelated. Moreover, preschooler’s SFON for small sets (1–4 items) was significantly stronger than that for large sets (10–40 items), and analyses revealed that number knowledge was only associated with SFON for small sets and not large. Together, findings suggest that SFON may not be a set-size-independent construct and instead may hinge upon a child’s number knowledge, at least in the preschool years. The role of number language and how it relates to children’s SFON are discussed.
 authors:
+- Sophie Savelkouls
 - Michelle Hurst
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Developmental Psychology*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Developmental Psychology*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+publishDate: "2020-10-01T00:00:00Z"
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Preschoolers’ number knowledge relates to spontaneous focusing on number for small, but not large, sets
+url_pdf: "https://oce.ovid.com/article/00063061-202010000-00006/HTML"
 ---

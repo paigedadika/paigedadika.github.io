@@ -1,26 +1,26 @@
 ---
-abstract: Although fractions, decimals, and whole numbers can be used to represent the same rational-number values, it is unclear whether adults conceive of these rational-number magnitudes as lying along the same ordered mental continuum. In the current study, we investigated whether adults’ processing of rational-number magnitudes in fraction, decimal, and whole-number notation show systematic ratio-dependent responding characteristic of an integrated mental continuum. Both reaction time (RT) and eye-tracking data from a number-magnitude comparison task revealed ratio-dependent performance when adults compared the relative magnitudes of rational numbers, both within the same notation (e.g., fractions vs. fractions) and across different notations (e.g., fractions vs. decimals), pointing to an integrated mental continuum for rational numbers across notation types. In addition, eye-tracking analyses provided evidence of an implicit whole-number bias when we compared values in fraction notation, and individual differences in this whole-number bias were related to the individual’s performance on a fraction arithmetic task. Implications of our results for both cognitive development research and math education are discussed.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: |
+  Young children show remarkably sophisticated abilities to evaluate others. Yet their abilities to engage in proportional moral evaluation undergoes protracted development. Namely, young children evaluate someone who shares absolutely more as being “nicer” than someone who shares proportionally more (e.g., sharing 3-out-of-6 is nicer than sharing 2-out-of-3, because 3 > 2, even though 3/6 < 2/3), whereas adults think the opposite. We investigate the hypothesis that this prior work underestimates children’s proportional social reasoning by relying on discrete and spatially separated quantities (e.g., individual stickers), which can hinder proportional reasoning even outside social contexts. In three experiments we examine whether 4- and 5-year-old children’s social evaluations are impacted by the discreteness and spatial separation of the resource and compare their behavior to adults (18 to 63 years; across all samples: 38% girls/women, 62% boys/men; no other demographic data was collected). We find that children are sensitive to these features: when the resource was divided into discrete units (Experiment 1) or spatially separated (Experiment 2) children were more likely to use absolute amount, as opposed to proportion, relative to when the resources were not divided and remained spatially connected. However, adults were highly sensitive to proportion regardless of the display’s perceptual features (Experiment 3), and children’s use of proportion remained below adult-levels. These results suggest that perceptual features influence children’s use of absolute versus proportional information in their social evaluations, which has theoretical and methodological implications for understanding children’s conceptions of fairness.
 authors:
 - Michelle Hurst
-- Sara Cordes
+- Alex Shaw
+- Nadia Chernyak
+- Susan C Levine
 doi: ""
 featured: true
 projects:
 - example
 publication: |
-  In *Journal of Experimental Psychology: Human Perception and Performance*
+  In *Developmental Psychology*
 publication_short: |
-  *Journal of Experimental Psychology*
+  *Developmental Psychology*
 publication_types: 
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
-tags: ["Development"]
+tags: []
 title: |
-  Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
-url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"
+  Giving a larger amount or a larger proportion: Stimulus format impacts children’s social evaluations
+url_pdf: "https://oce.ovid.com/article/00063061-202012000-00002/HTML"
 ---
