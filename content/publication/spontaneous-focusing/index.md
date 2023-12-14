@@ -15,7 +15,6 @@ publication_types:
 publishDate: "2020-10-01T00:00:00Z"
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Preschoolers’ number knowledge relates to spontaneous focusing on number for small, but not large, sets
+title: Preschoolers’ number knowledge relates to spontaneous focusing on number for small, but not large, sets
 url_pdf: "https://oce.ovid.com/article/00063061-202010000-00006/HTML"
 ---

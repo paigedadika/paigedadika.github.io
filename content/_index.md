@@ -19,17 +19,18 @@ sections:
       {{% cta cta_link="./projects/" cta_text="Our Projects →" %}}
     title: null
   design:
-    spacing:
-      padding: ['1000px', '0', '1000px', 0px']
-
-- block: markdown
+   column: "1"
+   
+- block: collection
   content:
+    title: null
     subtitle: null
     text: |
-      ![](quadlab.png)
-  design:
-    spacing:
-      padding: ['15px', '10px', '0px', '250px']
+      <div align="center">
+      {{< figure src="quadlab.png" >}}
+    filters:
+      folders:
+         - post
 
 title: null
 type: landing

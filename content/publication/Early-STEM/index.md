@@ -21,7 +21,6 @@ publishDate: "2019-11-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Leveraging Research on Informal Learning to Inform Policy on Promoting Early STEM
+title: Leveraging Research on Informal Learning to Inform Policy on Promoting Early STEM
 url_pdf: "https://srcd.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sop2.5"
 ---

@@ -12,6 +12,5 @@ publishDate: "2016-01-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  The Effect of Emotion and Induced Arousal on Numerical Processing
+title: The Effect of Emotion and Induced Arousal on Numerical Processing
 ---

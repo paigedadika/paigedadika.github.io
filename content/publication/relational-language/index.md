@@ -20,7 +20,6 @@ publishDate: "2022-07-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Children’s understanding of relational language for quantity comparisons
+title: Children’s understanding of relational language for quantity comparisons
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0885201422000624"
 ---

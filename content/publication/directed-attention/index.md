@@ -19,7 +19,6 @@ publishDate: "2023-01-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Spontaneous and directed attention to number and proportion
+title: Spontaneous and directed attention to number and proportion
 url_pdf: "https://oce.ovid.com/article/00004786-202301000-00002/HTML"
 ---

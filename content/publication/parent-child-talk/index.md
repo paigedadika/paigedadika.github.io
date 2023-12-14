@@ -20,7 +20,6 @@ publishDate: "2022-10-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Enhancing parent and child shape talk during puzzle play
+title: Enhancing parent and child shape talk during puzzle play
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0885201422000983"
 ---

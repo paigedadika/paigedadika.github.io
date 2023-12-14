@@ -18,7 +18,6 @@ publishDate: "2018-02-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  A systematic investigation of the link between rational number processing and algebra ability
+title: A systematic investigation of the link between rational number processing and algebra ability
 url_pdf: "https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjop.12244"
 ---

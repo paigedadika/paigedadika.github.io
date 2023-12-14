@@ -19,7 +19,6 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Mapping Among Number Words, Numerals, and Nonsymbolic Quantities in Preschoolers
+title: Mapping Among Number Words, Numerals, and Nonsymbolic Quantities in Preschoolers
 url_pdf: "https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=a88db770-b9f1-438f-bc00-03a547099db6%40redis"
 ---

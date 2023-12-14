@@ -18,7 +18,6 @@ publishDate: "2022-01-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Cross-notation knowledge of fractions and decimals
+title: Cross-notation knowledge of fractions and decimals
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096521001284"
 ---

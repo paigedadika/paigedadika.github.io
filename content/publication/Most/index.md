@@ -18,7 +18,6 @@ publishDate: "2022-08-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Children's understanding of most is dependent on context
+title: Children's understanding of most is dependent on context
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0010027722001378"
 ---

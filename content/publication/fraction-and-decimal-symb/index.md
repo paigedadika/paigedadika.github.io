@@ -17,7 +17,6 @@ publishDate: "2018-04-30T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Children’s understanding of fraction and decimal symbols and the notation-specific relation to pre-algebra ability
+title: Children’s understanding of fraction and decimal symbols and the notation-specific relation to pre-algebra ability
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096517302564"
 ---

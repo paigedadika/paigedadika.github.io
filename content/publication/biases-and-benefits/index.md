@@ -18,6 +18,5 @@ publishDate: "2016-01-01T00:00:00Z"
 slides: example
 summary: This is the summary that works with the search engine.
 tags: []
-title: |
-  Biases and benefits of number lines and pie charts in proportion representation
+title: Biases and benefits of number lines and pie charts in proportion representation
 ---
