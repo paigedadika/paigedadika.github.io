@@ -25,7 +25,7 @@ sections:
       provider: netlify
     office_hours:
     - Monday through Friday 9:00 to 5:00
-    text: If you are interested in participating in a study or joining the lab input your information here.
+    text: If you are interested in participating in a study input your information here.
     title: Contact
   design:
     columns: "1"
@@ -37,7 +37,7 @@ sections:
   design:
     background:
       image:
-        filename: contact.jpg
+        filename: 
         filters:
           brightness: 1
         parallax: false

@@ -8,7 +8,7 @@ sections:
     text: |
       <br>
 
-      The **Quantitative Development Lab** is a new lab at Rutgers University. We aim to....
+      The **Quantitative Development Lab** at Rutgers University. Our mission is to gain a deeper knowledge about the cognitive processes that drive mathematical processing throughout different parts of the life span and within different contexts.
     title: |
       The Quad Lab
       
@@ -16,7 +16,7 @@ sections:
   content:
     subtitle: null
     text: |
-      {{% cta cta_link="./projects/" cta_text="Our Projects →" %}}
+      {{% cta cta_link="./parents/" cta_text="Participate Here" %}}
     title: null
   design:
    column: "1"
