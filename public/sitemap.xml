@@ -278,6 +278,9 @@
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://paigedadika.github.io/parents/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://paigedadika.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -288,9 +291,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://paigedadika.github.io/event/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://paigedadika.github.io/parents/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
