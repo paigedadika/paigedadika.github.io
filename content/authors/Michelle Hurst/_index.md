@@ -4,13 +4,13 @@ education:
   courses:
   - course: Postdoc 
     institution: University of Chicago
-    year: 2019- 2023
+    year: 2017- 2023
   - course: PhD in Psychology
     institution: Boston College
-    year: 2014- 2019
+    year: 2012- 2017
   - course: B.Sc in Mathematics
     institution: McMaster University
-    year: 2010- 2014
+    year: 2008- 2012
 email: ""
 first_name: Michelle
 highlight_name: false
@@ -21,7 +21,8 @@ last_name: Hurst
 organizations:
 - name: Rutgers University
   url: ""
-role: Associate Professor 
+role: Assistant Professor <br>
+      <span style="color:black">I can add a sentence or two here if we wanna have a mini-bio on the people page. I can even change the font color. What should it include? </span>
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,11 +30,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=cLZiGjcAAAAJ&hl=en
-superuser: true
+- icon: cv
+  icon_pack: ai
+  link: files/HURST_CV_2023Sept20.pdf
+superuser: false
 title: Michelle Hurst
 user_groups:
 - Principal Investigator
 ---
-
-Michelle Hurst is...
-
+Can

@@ -5,8 +5,6 @@ authors:
 - Steven Piantadosi
 doi: ""
 featured: true
-projects:
-- example
 publication: |
   In *Proceedings of the Annual Meeting of the Cognitive Science Society*
 publication_short: |
@@ -15,7 +13,7 @@ publication_types:
 - article-journal
 publishDate: "2022-01-01T00:00:00Z"
 summary: This is the summary that works with the search engine.
-tags: []
+tags: ["Hello"]
 title: Investigating Adults’ Strategy Use During Proportional Comparison
 url_pdf: "https://escholarship.org/content/qt8kz9n4gt/qt8kz9n4gt.pdf"
 ---
