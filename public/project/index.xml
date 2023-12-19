@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Projects | The Quad Lab</title>
+    <link>https://paigedadika.github.io/project/</link>
+      <atom:link href="https://paigedadika.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Our Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paigedadika.github.io/media/icon_hu30602711da1badc079be983ecb067fb0_21919_512x512_fill_lanczos_center_3.png</url>
+      <title>Our Projects</title>
+      <link>https://paigedadika.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Baby Proportions</title>
+      <link>https://paigedadika.github.io/project/baby-proportions/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/project/baby-proportions/</guid>
+      <description>&lt;p&gt;This is the first sentence/shown on home page.&lt;/p&gt;
+&lt;p&gt;This is where the text for the actual description goes.
+The corresponding picture is included in this folder.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Processing Models</title>
+      <link>https://paigedadika.github.io/project/processing-models/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/project/processing-models/</guid>
+      <description>&lt;p&gt;This is the text you see on the first page.&lt;/p&gt;
+&lt;p&gt;This is where you add a description.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

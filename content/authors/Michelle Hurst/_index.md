@@ -21,8 +21,7 @@ last_name: Hurst
 organizations:
 - name: Rutgers University
   url: ""
-role: Assistant Professor <br>
-      <span style="color:black">I can add a sentence or two here if we wanna have a mini-bio on the people page. I can even change the font color. What should it include? </span>
+role: Assistant Professor 
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,4 +37,4 @@ title: Michelle Hurst
 user_groups:
 - Principal Investigator
 ---
-Can
+I do not understand why this is happening. It works in R build.

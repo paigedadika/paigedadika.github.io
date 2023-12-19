@@ -10,7 +10,6 @@ publication: |
 publication_short: |
   *Proceedings of the Annual Meeting of the Cognitive Science Society*
 publication_types: 
-- article-journal
 publishDate: "2022-01-01T00:00:00Z"
 summary: This is the summary that works with the search engine.
 tags: ["Hello"]
