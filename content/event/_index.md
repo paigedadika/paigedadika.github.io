@@ -8,13 +8,14 @@ title: We are Hiring!
   
   **Postdoctoral Students**
   
-  We are looking to hire a postdoctoral student beginning Summer 2024! Candidates should have a PhD in Psychology or a related field and these credentials...
-  
-  Please reach out if you are interested or view the job posting listed here:
+  We are looking to hire a postdoctoral student beginning Summer 2024! Candidates should have a PhD in Psychology or a related field. They should also be comfortable working with children, have good interpersonal skills, and have strong communication and writing skills.
+Some experience with R, Python, PsychoPy, jsPsych, and/or Lookit is preferred.
+
+  Please reach out if you are interested or view the job posting listed [here](https://jobs.rutgers.edu/postings/215293).
   
   **Graduate Students**
   
-  We are accepting graduate students this cycle, to begin in Fall 2024. We are looking for some folks, I don't think I need to include this because applications will be due before this site is running, unless of course there will be another Fall 2025.
+  We are accepting graduate students this cycle, to begin in Fall 2025?
   
   **Undergraduate Research Assistants**
   

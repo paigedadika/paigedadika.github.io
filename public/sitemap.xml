@@ -146,10 +146,6 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://paigedadika.github.io/tag/hello/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://paigedadika.github.io/publication/adult-strategy/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -159,10 +155,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://paigedadika.github.io/author/steven-piantadosi/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://paigedadika.github.io/tags/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -246,6 +238,10 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://paigedadika.github.io/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://paigedadika.github.io/author/ursula-anderson/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -288,7 +284,7 @@
     <loc>https://paigedadika.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://paigedadika.github.io/author/michelle-hurst/</loc>
+    <loc>https://paigedadika.github.io/author/michelle-hurs/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://paigedadika.github.io/author/paige-dadika/</loc>

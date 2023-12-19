@@ -6,6 +6,11 @@
 If you or your child are interested in helping science and taking part in some research, here are a few of our active projects!
 
 <div align="left">
+<br>
+
+If you are ready to participate in a study, great! Here is the link to a [Qualtrics form](link). Fill this out and we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in.
+
+
 
 <img style="float: right;" src="babyratios_icon_square.png">
 

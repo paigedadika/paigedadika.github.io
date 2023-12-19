@@ -25,7 +25,13 @@ sections:
       provider: netlify
     office_hours:
     - Monday through Friday 9:00 to 5:00
-    text: If you are interested in participating in a study input your information here!
+    text: If you are ready to participate in a study, great! Here is the link to a [Qualtrics form](link) where you can input you and your child’s information. After, we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in. <br>
+    
+      
+      If you are interested in joining the lab, please fill out the appropriate form on the Join the Lab page. <br>
+    
+      
+      If you would like to know more information, you can input any of your questions in the form below or email us directly. 
     title: Contact
   design:
     columns: "1"
