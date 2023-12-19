@@ -21,7 +21,8 @@ last_name: Hurst
 organizations:
 - name: Rutgers University
   url: ""
-role: Assistant Professor 
+role: Assistant Professor <br>
+      <span style="color:black"> Here the mini bio would go. </span>
 social:
 - icon: envelope
   icon_pack: fas
