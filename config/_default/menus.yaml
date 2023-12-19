@@ -5,7 +5,7 @@
 
 main:
   - name: Our Projects
-    url: projects
+    url: project
     weight: 20
   - name: Publications
     url: publication

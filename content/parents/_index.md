@@ -21,4 +21,3 @@ In this study, your baby will sit in a high chair or on your lap and look at pic
 
 ### To participate visit [Children Helping Science](https://lookit.mit.edu), create an account and search the study name.
 
-## Project 2

@@ -12,7 +12,7 @@ publication_short: |
 publication_types: 
 publishDate: "2022-01-01T00:00:00Z"
 summary: This is the summary that works with the search engine.
-tags: ["Hello"]
+tags: []
 title: Investigating Adults’ Strategy Use During Proportional Comparison
 url_pdf: "https://escholarship.org/content/qt8kz9n4gt/qt8kz9n4gt.pdf"
 ---

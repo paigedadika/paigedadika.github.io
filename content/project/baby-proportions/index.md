@@ -1,6 +1,6 @@
 ---
 date: "2023-12-11"
-title: Baby Proportions
+title: Infant Proportion Discrimination
 ---
 
 This is the first sentence/shown on home page.

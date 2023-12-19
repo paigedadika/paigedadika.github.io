@@ -8,7 +8,7 @@ sections:
     text: |
       <br>
 
-      The <span style="color:gray">**Quantitative Development Lab**</span> at Rutgers University. Our mission is to gain a deeper knowledge about the cognitive processes that drive mathematical processing throughout different parts of the life span and within different contexts.
+      The <span style="color:gray">**Quantitative Development Lab**</span> at Rutgers University in both the Rutgers Center for Cognitive Science (RuCCs) and the Psychology Department. Our mission is to gain a deeper knowledge about the cognitive processes that drive mathematical processing throughout different parts of the life span and within different contexts.
     title: |
       <span style="color:teal">The Quad Lab</span>
       
@@ -16,7 +16,7 @@ sections:
   content:
     subtitle: null
     text: |
-      {{% cta cta_link="./parents/" cta_text="Participate Here" %}}
+      {{% cta cta_link="./parents/" cta_text="Participate Here!" %}}
     title: null
   design:
    column: "1"
