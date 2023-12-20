@@ -13,8 +13,7 @@ publication: |
   In *Developmental Science*
 publication_short: |
   *Developmental Science*
-publication_types: 
-- article-journal
+publication_types: [article-journal]
 publishDate: "2014-11-01T00:00:00Z"
 summary: An analysis and new interpretation of the popular number line task.
 tags: ["Numerical Development", "Number Line", "Mathematical Competence", "Linear vs Logarithmic"]

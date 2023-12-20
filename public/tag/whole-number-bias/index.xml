@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whole Number Bias | The Quad Lab</title>
+    <link>https://paigedadika.github.io/tag/whole-number-bias/</link>
+      <atom:link href="https://paigedadika.github.io/tag/whole-number-bias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Whole Number Bias</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paigedadika.github.io/media/icon_hu30602711da1badc079be983ecb067fb0_21919_512x512_fill_lanczos_center_3.png</url>
+      <title>Whole Number Bias</title>
+      <link>https://paigedadika.github.io/tag/whole-number-bias/</link>
+    </image>
+    
+    <item>
+      <title>Children’s gesture use provides insight into proportional reasoning strategies</title>
+      <link>https://paigedadika.github.io/publication/gesture-use/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/gesture-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Adults’ Strategy Use During Proportional Comparison</title>
+      <link>https://paigedadika.github.io/publication/adult-strategy/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/adult-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talking about proportion: Fraction labels impact numerical interference in non‐symbolic proportional reasoning
+</title>
+      <link>https://paigedadika.github.io/publication/fraction-labels/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/fraction-labels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

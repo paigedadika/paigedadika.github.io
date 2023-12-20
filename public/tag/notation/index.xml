@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notation | The Quad Lab</title>
+    <link>https://paigedadika.github.io/tag/notation/</link>
+      <atom:link href="https://paigedadika.github.io/tag/notation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Notation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paigedadika.github.io/media/icon_hu30602711da1badc079be983ecb067fb0_21919_512x512_fill_lanczos_center_3.png</url>
+      <title>Notation</title>
+      <link>https://paigedadika.github.io/tag/notation/</link>
+    </image>
+    
+    <item>
+      <title>Cross-notation knowledge of fractions and decimals</title>
+      <link>https://paigedadika.github.io/publication/cross-notation/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/cross-notation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fraction Magnitude: Mapping Between Symbolic and Spatial Representations of Proportion
+</title>
+      <link>https://paigedadika.github.io/publication/fraction-magnitude/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/fraction-magnitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children’s understanding of fraction and decimal symbols and the notation-specific relation to pre-algebra ability</title>
+      <link>https://paigedadika.github.io/publication/fraction-and-decimal-symb/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/fraction-and-decimal-symb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biases and benefits of number lines and pie charts in proportion representation</title>
+      <link>https://paigedadika.github.io/publication/biases-and-benefits/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/biases-and-benefits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

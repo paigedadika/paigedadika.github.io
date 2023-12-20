@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math Education | The Quad Lab</title>
+    <link>https://paigedadika.github.io/tag/math-education/</link>
+      <atom:link href="https://paigedadika.github.io/tag/math-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Math Education</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paigedadika.github.io/media/icon_hu30602711da1badc079be983ecb067fb0_21919_512x512_fill_lanczos_center_3.png</url>
+      <title>Math Education</title>
+      <link>https://paigedadika.github.io/tag/math-education/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Research on Informal Learning to Inform Policy on Promoting Early STEM</title>
+      <link>https://paigedadika.github.io/publication/early-stem/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/early-stem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Being Good at Math Is Not Enough: How Students’ Beliefs About the Nature of Mathematics Impact Decisions to Pursue Optional Math Education
+</title>
+      <link>https://paigedadika.github.io/publication/being-good-at-math/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/being-good-at-math/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
