@@ -10,7 +10,7 @@ publication_types:
 - article-journal
 publishDate: "2016-01-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Unlike temporal processing, increased arousal shows little effects on numerical processing.
+tags: ["Quantity Processing", "Numerical Cognition", "Temporal Processing", "Emotion"]
 title: The Effect of Emotion and Induced Arousal on Numerical Processing
 ---

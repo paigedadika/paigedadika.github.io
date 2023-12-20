@@ -7,7 +7,7 @@ authors:
 doi: ""
 featured: true
 projects:
-- example
+- 
 publication: |
   In *Proceedings of the 38th Annual Conference of the Cognitive Science Society*
 publication_short: |
@@ -15,8 +15,7 @@ publication_short: |
 publication_types: 
 - article-journal
 publishDate: "2016-01-01T00:00:00Z"
-slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Adult reasoning of proportions across different symbolic and spatial representations.
+tags: ["Notation", "Number Line", "Fractions", "Decimals"]
 title: Biases and benefits of number lines and pie charts in proportion representation
 ---

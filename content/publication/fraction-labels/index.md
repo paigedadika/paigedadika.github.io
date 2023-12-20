@@ -16,8 +16,8 @@ publication_types:
 - article-journal
 publishDate: "2019-07-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Labeling non-symbolic proportions increases likelihood of matching displays based on proportion as compared to whole number information.
+tags: ["Fractions", "Proportions", "Numerical Interference", "Whole Number Bias", "Numerical Development"]
 title: |
   Talking about proportion: Fraction labels impact numerical interference in non‐symbolic proportional reasoning
 url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.12790"

@@ -4,7 +4,7 @@ banner:
   image: ""
 title: We are Hiring!
 ---
-  At the Quad Lab we provide an enthusiastic and organized environment for our members to conduct research within. In return we ask for present members who do things.
+  At the Quad Lab we provide an enthusiastic and organized environment for our members to conduct research within. In return we ask for present members who maintain open communication and put maximum effort into their work when they are in the lab.
   
   **Postdoctoral Students**
   

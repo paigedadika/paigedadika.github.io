@@ -8,7 +8,7 @@ authors:
 doi: ""
 featured: true
 projects:
-- baby-proportions
+- 
 publication: |
   In *Developmental Science*
 publication_short: |
@@ -16,8 +16,8 @@ publication_short: |
 publication_types: 
 - article-journal
 publishDate: "2014-11-01T00:00:00Z"
-summary: This is the summary that works with the search engine.
-tags: ["Development"]
+summary: An analysis and new interpretation of the popular number line task.
+tags: ["Numerical Development", "Number Line", "Mathematical Competence", "Linear vs Logarithmic"]
 title: |
   123s and ABCs: developmental shifts in logarithmic-to-linear responding reflect fluency with sequence values
 url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"

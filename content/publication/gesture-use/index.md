@@ -18,8 +18,8 @@ publication_types:
 - article-journal
 publishDate: "2022-02-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: The behavioral outcome of learning discrete versus continuous gestures to highlight proportional information and the effect on numerical interference.
+tags: ["Proportions", "Gesture", "Numerical Interference", "Whole number bias", "Continuous vs Discrete Proportions"]
 title: Children’s gesture use provides insight into proportional reasoning strategies
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096521001958"
 ---

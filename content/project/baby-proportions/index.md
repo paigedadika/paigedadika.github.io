@@ -1,11 +1,12 @@
 ---
 date: "2023-12-11"
 title: Infant Proportion Discrimination
+type: project
+Authors: {None}
 ---
 
-This is the first sentence/shown on home page.
+Infant Proportion Discrimination seeks to understand how people’s proportional reasoning differs when the proportions are presented in different visual formats, such as a continuous rectangle or a discrete set of dots.
 
 <!--more-->
 
-This is where the text for the actual description goes.
-The corresponding picture is included in this folder.
+This project is currently in the process of data collection on Children Helping Science (powered by Lookit).

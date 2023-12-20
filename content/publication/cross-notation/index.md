@@ -16,8 +16,8 @@ publication_types:
 - article-journal
 publishDate: "2022-01-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Importance of cross-notation knowledge when assessing rational numbers.
+tags: ["Fractions", "Decimals", "Notation", "Numerical Development", "Integrated Theory of Numerical Development", "Magnitude"]
 title: Cross-notation knowledge of fractions and decimals
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096521001284"
 ---

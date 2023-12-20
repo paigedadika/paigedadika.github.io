@@ -11,8 +11,8 @@ publication_short: |
   *Proceedings of the Annual Meeting of the Cognitive Science Society*
 publication_types: 
 publishDate: "2022-01-01T00:00:00Z"
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Numerical interference in continuous versus discrete stimuli.
+tags: ["Proportions", "Bayesian Mixture Model", "Numerical Interference", "Whole Number Bias", "Continuous vs Discrete Proportions"]
 title: Investigating Adults’ Strategy Use During Proportional Comparison
 url_pdf: "https://escholarship.org/content/qt8kz9n4gt/qt8kz9n4gt.pdf"
 ---

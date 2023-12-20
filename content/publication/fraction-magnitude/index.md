@@ -16,8 +16,8 @@ publication_types:
 - article-journal
 publishDate: "2020-09-09T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Exploring the difference between using number lines and pie charts to visualize fraction magnitude.
+tags: ["Fractions", "Notation", "Magnitude", "Number Line", "Pie Charts"]
 title: |
   Fraction Magnitude: Mapping Between Symbolic and Spatial Representations of Proportion
 url_pdf: "https://jnc.psychopen.eu/index.php/jnc/article/view/5901/5901.pdf"
