@@ -18,8 +18,8 @@ publication_types:
 - article-journal
 publishDate: "2020-12-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Social evaluations in children are affected by the use discrete units rather than spatially connected resources.
+tags: ["Proportions", "Number", "Resource Distribution", "Social Evaluation", "Continuous vs Discrete Proportions"]
 title: |
   Giving a larger amount or a larger proportion: Stimulus format impacts children’s social evaluations
 url_pdf: "https://oce.ovid.com/article/00063061-202012000-00002/HTML"

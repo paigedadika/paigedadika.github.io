@@ -17,8 +17,8 @@ publication_types:
 - article-journal
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: An understanding of symbolic representations such as numerals may be done via mapping numerals onto words rather than the quantities they represent.
+tags: ["Numerals", "Symbolic Representations", "Quantity Processing"]
 title: Mapping Among Number Words, Numerals, and Nonsymbolic Quantities in Preschoolers
 url_pdf: "https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=a88db770-b9f1-438f-bc00-03a547099db6%40redis"
 ---

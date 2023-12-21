@@ -6,7 +6,7 @@ title: Publications
 tags: ["Fractions"]
 view: citation
 ---
-Key Topics:
+### Key Topics:
 
 [Fractions](https://rqldeveloping.netlify.app/category/fractions/) - Proportions
 

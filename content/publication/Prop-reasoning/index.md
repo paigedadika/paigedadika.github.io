@@ -15,8 +15,8 @@ publication_types:
 - article-journal
 publishDate: "2018-03-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Differences in proportional reasoning across ages and context.
+tags: ["Proportions", "Whole Number Bias", "Analogy", "Continuous vs Discrete Proportions"]
 title: |
   Attending to relations: Proportional reasoning in 3-to 6-year-old children
 url_pdf: "https://oce.ovid.com/article/00063061-201803000-00003/HTML"

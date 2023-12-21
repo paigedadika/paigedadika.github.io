@@ -14,7 +14,7 @@ publication: |
   In *Journal of Experimental Child Psychology*
 publication_short: |
   *Journal of Experimental Child Psychology*
-publication_types: ['proportions', 'fractions']
+publication_types:
 publishDate: "2022-02-01T00:00:00Z"
 slides: example
 summary: The behavioral outcome of learning discrete versus continuous gestures to highlight proportional information and the effect on numerical interference.

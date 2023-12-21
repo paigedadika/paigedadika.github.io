@@ -18,8 +18,8 @@ publication_types:
 - article-journal
 publishDate: "2022-10-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Variations in parent support and spatial language across Typical and Highly Alignable shape puzzles.
+tags: ["Parent-child Interactions", "Spacial Language", "Early Spatial Reasoning"]
 title: Enhancing parent and child shape talk during puzzle play
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0885201422000983"
 ---

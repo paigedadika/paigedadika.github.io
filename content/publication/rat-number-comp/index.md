@@ -15,8 +15,8 @@ publication_types:
 - article-journal
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: ["Development"]
+summary: Ratio-dependenct performance when comparing the relative magnitudes of rational numbers across notations.
+tags: ["Rational Numbers", "Decimals", "Fractions", "Number Comparison", "Notation", "Whole Number Bias", "Magnitude"]
 title: |
   Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
 url_pdf: "https://oce.ovid.com/article/00004788-201602000-00013/HTML"

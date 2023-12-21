@@ -21,8 +21,8 @@ categories:
 - Fractions
 publishDate: "2023-03-01T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Undergraduate research projects fail to meet the quality of research to make a substantial scientific contribution.
+tags: ["Psychology Instructors", "Undergraduate Research Projects", "Teaching", "Open Science"]
 title: |
   Teaching Research in Principle and in Practice: What Do Psychology Instructors Think of Research Projects in Their Courses?
 url_pdf: "https://journals.sagepub.com/doi/pdf/10.1177/14757257221101942"
