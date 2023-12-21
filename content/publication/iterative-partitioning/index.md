@@ -16,8 +16,8 @@ publication_types:
 - article-journal
 publishDate: "2022-05-05T00:00:00Z"
 slides: example
-summary: This is the summary that works with the search engine.
-tags: []
+summary: Using variations on paritioning area models gives children different levels of improvements in matching symbolic and visual fractions.
+tags: ["Fractions", "Proportional Reasoning", "Card Games", "Nonsymbolic Fractions", "Area Models"]
 title: Connecting symbolic fractions to their underlying proportions using iterative partitioning
 url_pdf: "https://oce.ovid.com/article/00063061-202209000-00009/HTML"
 ---
