@@ -15,7 +15,7 @@ email: ""
 first_name: Michelle
 highlight_name: false
 interests:
-- Development of mathematical skills
+- Development of mathematical cognition
 - Understanding proportions
 last_name: Hurst
 organizations:
