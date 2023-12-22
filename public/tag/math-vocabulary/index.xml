@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math Vocabulary | The Quad Lab</title>
+    <link>https://paigedadika.github.io/tag/math-vocabulary/</link>
+      <atom:link href="https://paigedadika.github.io/tag/math-vocabulary/index.xml" rel="self" type="application/rss+xml" />
+    <description>Math Vocabulary</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paigedadika.github.io/media/icon_hu30602711da1badc079be983ecb067fb0_21919_512x512_fill_lanczos_center_3.png</url>
+      <title>Math Vocabulary</title>
+      <link>https://paigedadika.github.io/tag/math-vocabulary/</link>
+    </image>
+    
+    <item>
+      <title>Children’s understanding of relational language for quantity comparisons</title>
+      <link>https://paigedadika.github.io/publication/relational-language/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/relational-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

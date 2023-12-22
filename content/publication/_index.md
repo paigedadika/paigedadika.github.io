@@ -3,7 +3,6 @@ banner:
   caption: ""
   image: ""
 title: Publications
-tags: ["Fractions"]
 view: citation
 ---
 ### Key Topics:

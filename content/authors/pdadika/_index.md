@@ -1,5 +1,5 @@
 ---
-bio: My research interests include... 
+bio: A recent Rutgers graduate interested in researching the development of mathematical reasoning.
 education:
   courses:
   - course: BA
@@ -9,7 +9,6 @@ email: ""
 first_name: Paige
 highlight_name: false
 interests:
-- TBD
 last_name: Dadika
 organizations:
 - name: Rutgers University
@@ -19,11 +18,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:paige.dadika@rutgers.edu
+- icon: cv
+  icon_pack: ai
+  link: files/DadikaPaige_CV
 superuser: true
 title: Paige Dadika
 user_groups:
 - Administration
 ---
-
-Paige Dadika is...
-
+I am a recent Rutgers University graduate who majored in cognitive science and minored in developmental psychology. I am taking the time to develop my research skills and interests before pursuing further education.

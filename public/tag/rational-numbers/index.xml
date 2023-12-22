@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rational Numbers | The Quad Lab</title>
+    <link>https://paigedadika.github.io/tag/rational-numbers/</link>
+      <atom:link href="https://paigedadika.github.io/tag/rational-numbers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rational Numbers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paigedadika.github.io/media/icon_hu30602711da1badc079be983ecb067fb0_21919_512x512_fill_lanczos_center_3.png</url>
+      <title>Rational Numbers</title>
+      <link>https://paigedadika.github.io/tag/rational-numbers/</link>
+    </image>
+    
+    <item>
+      <title>A systematic investigation of the link between rational number processing and algebra ability</title>
+      <link>https://paigedadika.github.io/publication/rat-process-alg/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/rat-process-alg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working memory strategies during rational number magnitude processing</title>
+      <link>https://paigedadika.github.io/publication/working-memory/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/working-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rational-Number Comparison Across Notation: Fractions, Decimals, and Whole Numbers
+</title>
+      <link>https://paigedadika.github.io/publication/rat-number-comp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://paigedadika.github.io/publication/rat-number-comp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
