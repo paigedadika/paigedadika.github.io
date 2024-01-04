@@ -20,7 +20,7 @@ social:
   link: mailto:paige.dadika@rutgers.edu
 - icon: cv
   icon_pack: ai
-  link: files/DadikaPaige_CV
+  link: files/DadikaPaige_CV.pdf
 superuser: true
 title: Paige Dadika
 user_groups:
