@@ -8,7 +8,7 @@ If you or your child are interested in helping science and taking part in some r
 <div align="left">
 <br>
 
-If you are ready to participate in a study, great! Here is the link to a [Qualtrics form](link). Fill this out and we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in.
+If you are ready to participate in a study, great! Here is the link to a [Qualtrics form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa). Fill this out and we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in.
 
 
 

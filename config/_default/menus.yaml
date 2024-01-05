@@ -22,3 +22,6 @@ main:
   - name: For Parents
     url: parents
     weight: 15
+  - name: FAQs
+    url: faq
+    weight: 55
