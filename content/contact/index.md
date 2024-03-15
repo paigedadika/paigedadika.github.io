@@ -15,7 +15,7 @@ sections:
     coordinates:
       latitude: "40.5234"
       longitude: "-74.4658"
-    directions: Enter the Psychology Building, go downstairs and walk in the direction of ascending office numbers until you reach the pink section.
+    directions: Enter the Psychology Building, go downstairs and walk in the direction of ascending office numbers until you reach the annex.
     email: quadlab@psych.rutgers.edu
     form:
       formspree:

@@ -8,7 +8,9 @@ sections:
     text: |
       <br>
 
-      The <span style="color:gray">**Quantitative Development Lab**</span> is at Rutgers University in both the Rutgers Center for Cognitive Science (RuCCs) and the Psychology Department. Our mission is to gain a deeper knowledge about the cognitive processes that drive mathematical processing throughout different parts of the life span and within different contexts.
+      The <span style="color:gray">**Quantitative Development Lab**</span>  is a developmental cognitive science research lab at Rutgers University, affiliated with both the Rutgers Center for Cognitive Science (RuCCs) and the Department of Psychology. Our mission is to gain a deeper understanding about the cognitive processes that drive our ability to reason about and use mathematical information throughout infancy, childhood, and into adulthood. 
+
+ 
     title: |
       <span style="color:teal">The Quad Lab</span>
       
