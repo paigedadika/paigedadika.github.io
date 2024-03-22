@@ -5,16 +5,14 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Fractions
+- Decimals
 publication: |
   In *Journal of Experimental Psychology: Human Perception and Performance*
 publication_short: |
   *Journal of Experimental Psychology*
-publication_types: 
-- article-journal
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: Ratio-dependenct performance when comparing the relative magnitudes of rational numbers across notations.
 tags: ["Rational Numbers", "Decimals", "Fractions", "Number Comparison", "Notation", "Whole Number Bias", "Magnitude"]
 title: |

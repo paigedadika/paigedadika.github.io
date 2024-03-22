@@ -5,17 +5,15 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
 publication: |
   In *Journal of Educational Psychology*
 publication_short: |
   *Journal of Educational Psychology*
-publication_types: []
 Categories:
 - Fractions
+- Decimals
+- Strategies
 publishDate: "2017-07-01T00:00:00Z"
-slides: example
 summary: Both verbal and visuospatial working memory resources are utilized when comparing rational number magnitudes.
 tags: ["Working Memory", "Rational Numbers", "Fractions", "Decimals", "Algebra", "Magnitude"]
 title: Working memory strategies during rational number magnitude processing

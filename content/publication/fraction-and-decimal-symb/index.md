@@ -5,18 +5,16 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Fractions
+- Decimals
 publication: |
   In *Journal of Experimental Child Psychology*
 publication_short: |
   *Journal of Experimental Child Psychology*
-publication_types: 
-- article-journal
 publishDate: "2018-04-30T00:00:00Z"
-slides: example
 summary: Representing magnitude using both decimal and fraction notation shows differences in accuracy.
 tags: ["Fraction", "Decimal", "Notation", "Magnitude"]
 title: Children’s understanding of fraction and decimal symbols and the notation-specific relation to pre-algebra ability
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096517302564"
+url_pdf: 
 ---

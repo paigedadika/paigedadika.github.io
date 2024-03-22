@@ -7,18 +7,15 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Proportion
 publication: |
   In *Journal of Experimental Psychology: Learning, Memory, and Cognition*
 publication_short: |
   *Journal of Experimental Psychology: Learning, Memory, and Cognition*
-publication_types: 
-- article-journal
 publishDate: "2023-01-01T00:00:00Z"
-slides: example
 summary: Difficulty in representing proportion as compared to number due to numerical interference and overall salience.
 tags: ["Proportions", "Numerical Interference", "Discrete Quantity", "Fractions"]
 title: Spontaneous and directed attention to number and proportion
-url_pdf: "https://oce.ovid.com/article/00004786-202301000-00002/HTML"
+url_pdf: 
 ---

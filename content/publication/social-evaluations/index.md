@@ -8,16 +8,13 @@ authors:
 - Susan C Levine
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Proportion
 publication: |
   In *Developmental Psychology*
 publication_short: |
   *Developmental Psychology*
-publication_types: 
-- article-journal
 publishDate: "2020-12-01T00:00:00Z"
-slides: example
 summary: Social evaluations in children are affected by the use discrete units rather than spatially connected resources.
 tags: ["Proportions", "Number", "Resource Distribution", "Social Evaluation", "Continuous vs Discrete Proportions"]
 title: |

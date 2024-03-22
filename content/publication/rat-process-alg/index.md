@@ -6,18 +6,16 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Fractions
+- Decimals
 publication: |
   In *British Journal of Psychology*
 publication_short: |
   *British Journal of Psychology*
-publication_types: 
-- article-journal
 publishDate: "2018-02-01T00:00:00Z"
-slides: example
 summary: Fluency in fraction and decimal notation uniquely predict algebraic ability.
 tags: ["Magnitude", "Rational Numbers", "Algebra"]
 title: A systematic investigation of the link between rational number processing and algebra ability
-url_pdf: "https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjop.12244"
+url_pdf: 
 ---

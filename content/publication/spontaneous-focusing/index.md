@@ -6,15 +6,16 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
+categories:
+- Numerical Cognition
+- Proportion
 publication: |
   In *Developmental Psychology*
 publication_short: |
   *Developmental Psychology*
-publication_types: 
-- article-journal
 publishDate: "2020-10-01T00:00:00Z"
 summary: SFON is dependent on set size during preschool years and SFON tasks show unrelated performance to one another.
 tags: ["SFON", "Number Knowledge", "Salience", "Set Size"]
 title: Preschoolers’ number knowledge relates to spontaneous focusing on number for small, but not large, sets
-url_pdf: "https://oce.ovid.com/article/00063061-202010000-00006/HTML"
+url_pdf: 
 ---

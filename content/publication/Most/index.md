@@ -6,18 +6,16 @@ authors:
 - Susan C Levine
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Spatial, Mathematical, and Relational Language
+- Proportion
 publication: |
   In *Cognition*
 publication_short: |
   *Cognition*
-publication_types: 
-- article-journal
 publishDate: "2022-08-01T00:00:00Z"
-slides: example
 summary: Children's ability to utilize and understand the quantified, "most," is dependent on whether the stimuli is continuous or discrete and if there is any interfering information.
 tags: ["Proportion", "Most", "Quantifiers", "Numerical Interference", "Continuous vs Discrete Proportions"]
 title: Children's understanding of most is dependent on context
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0010027722001378"
+url_pdf: 
 ---

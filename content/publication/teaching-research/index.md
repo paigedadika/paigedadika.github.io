@@ -9,18 +9,13 @@ authors:
 - Jon E Grahe
 doi: ""
 featured: true
-projects:
-- example
 publication: |
   In *Psychology Learning & Teaching*
 publication_short: |
   *Psychology Learning & Teaching*
-publication_types: 
-- article-journal
 categories:
-- Fractions
+- Open Science
 publishDate: "2023-03-01T00:00:00Z"
-slides: example
 summary: Undergraduate research projects fail to meet the quality of research to make a substantial scientific contribution.
 tags: ["Psychology Instructors", "Undergraduate Research Projects", "Teaching", "Open Science"]
 title: |

@@ -10,14 +10,13 @@ doi: ""
 featured: true
 projects:
 - example
+categories:
+- Spatial, Mathematical, and Relational Reasoning
 publication: |
   In *Cognitive Development*
 publication_short: |
   *Cognitive Development*
-publication_types: 
-- article-journal
 publishDate: "2022-10-01T00:00:00Z"
-slides: example
 summary: Variations in parent support and spatial language across Typical and Highly Alignable shape puzzles.
 tags: ["Parent-child Interactions", "Spacial Language", "Early Spatial Reasoning"]
 title: Enhancing parent and child shape talk during puzzle play

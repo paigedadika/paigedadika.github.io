@@ -15,7 +15,7 @@ email: ""
 first_name: Michelle
 highlight_name: false
 interests:
-- Doing research in developmental cognitive science
+- Research in developmental cognitive science
 - How the way we think and learn changes over time
 - Camping and hiking
 - Math

@@ -6,16 +6,13 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- STEM Education and Learning
 publication: |
   In *Understanding Emotions in Mathematical Thinking and Learning*
 publication_short: |
   *Understanding Emotions in Mathematical Thinking and Learning*
-publication_types: 
-- article-journal
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: An analysis of how personal beliefs affect the decision to pursue math education at a postsecondary institution.
 tags: ["Math Education", "Math Ability", "Mathematical Beliefs", "Postsecondary Education"]
 title: |

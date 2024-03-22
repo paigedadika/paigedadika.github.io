@@ -8,17 +8,15 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Proportion
 publication: |
   In *Journal of Experimental Child Psychology*
 publication_short: |
   *Journal of Experimental Child Psychology*
-publication_types:
 publishDate: "2022-02-01T00:00:00Z"
-slides: example
 summary: The behavioral outcome of learning discrete versus continuous gestures to highlight proportional information and the effect on numerical interference.
 tags: ["Proportions", "Gesture", "Numerical Interference", "Whole number bias", "Continuous vs Discrete Proportions"]
 title: Children’s gesture use provides insight into proportional reasoning strategies
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096521001958"
+url_pdf: 
 ---

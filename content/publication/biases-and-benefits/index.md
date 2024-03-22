@@ -6,14 +6,13 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- 
+categories:
+- Fractions
+- Decimals
 publication: |
   In *Proceedings of the 38th Annual Conference of the Cognitive Science Society*
 publication_short: |
   *Proceedings of the 38th Annual Conference of the Cognitive Science Society*
-publication_types: 
-- article-journal
 publishDate: "2016-01-01T00:00:00Z"
 summary: Adult reasoning of proportions across different symbolic and spatial representations.
 tags: ["Notation", "Number Line", "Fractions", "Decimals"]

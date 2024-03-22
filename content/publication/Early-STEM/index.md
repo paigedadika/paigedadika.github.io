@@ -9,16 +9,13 @@ authors:
 - David H Uttal
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- STEM Education and Learning
 publication: |
   In *Social Policy Report*
 publication_short: |
   *Social Policy Report*
-publication_types: 
-- article-journal
 publishDate: "2019-11-01T00:00:00Z"
-slides: example
 summary: Recommendations for enhancing the overall impact of informal STEM learning.
 tags: ["Math Education", "Informal Learning", "Accessibility and Diversity"]
 title: Leveraging Research on Informal Learning to Inform Policy on Promoting Early STEM

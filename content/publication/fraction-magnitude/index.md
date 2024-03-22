@@ -6,16 +6,13 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Fractions
 publication: |
   In *Journal of Numerical Cognition*
 publication_short: |
   *Journal of Numerical Cognition*
-publication_types: 
-- article-journal
 publishDate: "2020-09-09T00:00:00Z"
-slides: example
 summary: Exploring the difference between using number lines and pie charts to visualize fraction magnitude.
 tags: ["Fractions", "Notation", "Magnitude", "Number Line", "Pie Charts"]
 title: |

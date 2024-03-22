@@ -5,11 +5,13 @@ authors:
 - Steven Piantadosi
 doi: ""
 featured: true
+categories:
+- Proportion
+- Strategies
 publication: |
   In *Proceedings of the Annual Meeting of the Cognitive Science Society*
 publication_short: |
   *Proceedings of the Annual Meeting of the Cognitive Science Society*
-publication_types: 
 publishDate: "2022-01-01T00:00:00Z"
 summary: Numerical interference in continuous versus discrete stimuli.
 tags: ["Proportions", "Bayesian Mixture Model", "Numerical Interference", "Whole Number Bias", "Continuous vs Discrete Proportions"]

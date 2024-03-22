@@ -6,18 +6,16 @@ authors:
 - Michelle Hurst
 doi: ""
 featured: true
-projects:
-- example
+categories:
+- Fractions
+- Decimals
 publication: |
   In *Journal of Experimental Child Psychology*
 publication_short: |
   *Journal of Experimental Child Psychology*
-publication_types: 
-- article-journal
 publishDate: "2022-01-01T00:00:00Z"
-slides: example
 summary: Importance of cross-notation knowledge when assessing rational numbers.
 tags: ["Fractions", "Decimals", "Notation", "Numerical Development", "Integrated Theory of Numerical Development", "Magnitude"]
 title: Cross-notation knowledge of fractions and decimals
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022096521001284"
+url_pdf:
 ---
