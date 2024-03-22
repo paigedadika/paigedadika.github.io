@@ -37,3 +37,8 @@ We have a central application system for tracking all undergraduate research ass
 https://forms.office.com/r/3DGvq9QhxZ
 
 **Ways to Join the Lab**
+Course Credit During the Academic Year:  We can provide course credit through Psychology (01:830:391/392) or through Cognitive Science (01:185:395/396). If you sign up for research for credit in psychology 1 credit hour is 3 hours with a minimum of 2 credits per semester. For both Psychology and Cognitive Science, you will be required to lead one of our lab meetings and submit a short reflection about your experience.  
+
+Paid positions: We sometimes have paid positions, primarily during the summer but sometimes during the academic year as well. These are typically restricted to students who have already worked in the lab in other ways, though not always.  
+
+Complete a Thesis: We can also supervise thesis projects for both Psychology and Cognitive Science. Typically, we recommend thesis students do research in the lab for at least one full semester prior to working on their thesis. This allows you and us a chance to work together before committing to the full thesis and gives more time for developing some of the background information and skills necessary for completing a high-quality thesis. Though there can be exceptions to this, if you are thinking about a thesis in your senior year, we recommend you begin talking to potential advisors during your junior year or earlier.  

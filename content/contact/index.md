@@ -4,7 +4,7 @@ sections:
 - block: contact
   content:
     address:
-      city: New Brunswick
+      city: Piscataway
       country: United States
       country_code: US
       postcode: "08854"
@@ -25,7 +25,7 @@ sections:
       provider: netlify
     office_hours:
     - Monday through Friday 9:00 to 5:00
-    text: If you are ready to participate in a study, great! Here is the link to a [Qualtrics form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) where you can input you and your child’s information. After, we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in. <br>
+    text: If you are ready to participate in a study, great! Here is the link to a [sign up form](https://rutgers.ca1.qualtrics.com/jfe/form/SV_2o6mi1NcKVX7Foa) where you can input you and your child’s information. After, we will add you to our potential participant database and reach out to you if there is a study you are eligible to participate in. <br>
     
       
       If you are interested in joining the lab, please fill out the appropriate form on the Join the Lab page. <br>

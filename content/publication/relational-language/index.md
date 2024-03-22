@@ -21,5 +21,5 @@ slides: example
 summary: Children understand magnitude (bigger/smaller, more/less) and ordinal (before/after) vocabulary differently, often performing better and with a less narrow interpretation when utlizing mangnitude vocabulary.
 tags: ["Relational Language", "Magnitude", "Order", "Math Vocabulary"]
 title: Children’s understanding of relational language for quantity comparisons
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0885201422000624"
+url_pdf: "https://hurstmichelle.github.io/manuscripts/Hurstetal_RelLang_CogDev2022.pdf"
 ---
