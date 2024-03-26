@@ -9,11 +9,6 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: {{ .Date }}
 
-# Publication type.
-# Legend: 0 = Proportions; 1 = Fractions; 2 = Notation;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
