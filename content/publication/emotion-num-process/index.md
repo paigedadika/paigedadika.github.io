@@ -6,10 +6,9 @@ authors:
 - Sara Cordes
 doi: ""
 featured: true
-publication_types: 
-- article-journal
+categories:
+- Numerical cognition
 publishDate: "2016-01-01T00:00:00Z"
-slides: example
 summary: Unlike temporal processing, increased arousal shows little effects on numerical processing.
 tags: ["Quantity Processing", "Numerical Cognition", "Temporal Processing", "Emotion"]
 title: The Effect of Emotion and Induced Arousal on Numerical Processing

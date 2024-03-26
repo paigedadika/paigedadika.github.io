@@ -24,6 +24,6 @@ social:
 superuser: true
 title: Paige Dadika
 user_groups:
-- Administration
+- Staff
 ---
 I am a recent Rutgers University graduate who majored in cognitive science and minored in developmental psychology. I am taking the time to develop my research skills and interests before pursuing further education.

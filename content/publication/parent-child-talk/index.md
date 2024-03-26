@@ -11,7 +11,7 @@ featured: true
 projects:
 - example
 categories:
-- Spatial, Mathematical, and Relational Reasoning
+- Spatial, Mathematical, and Relational Language
 publication: |
   In *Cognitive Development*
 publication_short: |
